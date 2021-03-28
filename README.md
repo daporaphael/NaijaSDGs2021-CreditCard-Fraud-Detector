@@ -24,8 +24,11 @@ in your computer with the command python - - version*
 *Ensure that you have a strong Internet connection when running the above 
 commands in CMD*
 
-# (5 )Type cd Loan-repayment-Calculator-and-Fraud-Detector*
-*Next is to type python app. py. Wait for the server to start. Dash is 
+# (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
+
+*Next is to type python app. py. 
+Wait for the server to start.
+Dash is 
 running..... will be displayed on the CMD *
 
 # (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web 
