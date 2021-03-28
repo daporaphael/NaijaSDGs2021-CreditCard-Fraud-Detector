@@ -44,8 +44,7 @@ In the course of loan application, some criminals may want to commit fraud
 with the use of their credit card. With my application, such fraud that 
 will be committed by such  criminals will be  prevented and detected. My application makes use of IBM Auto AI ( Automation and 
 Artificial intelligence) to analyse any transactions by the loan applicant 
-through the data set inherent in my  application and any fraud that will be 
-done will be detected based on two important conditions. My Web app will 
+through the dataset inherent in my  application and any fraud that'll will be commited  will be detected based on two important conditions. My Web app will 
 calculate two numeric values,which are 0 or 1 depending on whether there is a 
 fraudulent transactions or not. 
 
