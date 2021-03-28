@@ -38,7 +38,7 @@ running..... will be displayed on the CMD *
 
 
 
-#                               Fraud Prediction using Auto AI*
+#                               Fraud Detection using Auto AI*
 
 In the course of loan application, some criminals may want to commit fraud 
 with the use of their credit card. With my application, such fraud that 
@@ -48,7 +48,8 @@ through the data set inherent in my  application and any fraud that will be
 done will be detected based on two important conditions. My Web app will 
 calculate two numeric values,which are 0 or 1 depending on whether there is a 
 fraudulent transactions or not. 
-# Condition 1 :If the calculated value by the Web app is 0,then this means that 
+
+ Condition 1 :If the calculated value by the Web app is 0,then this means that 
 the loan applicant is about to commit fraud, such fraudulent step will 
 therefore be nipped in the bud and the loan application is not approved . 
 #Condition 2:if the calculated value is 1,that means the loan applicant is not 
