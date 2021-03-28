@@ -10,11 +10,10 @@ period of time. In relation to a loan, amortization focuses on spreading
 out loan payments over time. When applied to an asset, amortization is 
 similar to depreciation.*
 *Steps to build the loan repayment calculator *
-*1 install git software for Windows *
+#1 install git software for Windows *
 
 *(2)clone my Repo,using the command. git clone 
 https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector 
-<https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector>*
 
 *3 install the latest version of python. Check whether its truly installed 
 in your computer with the command python - - version*
