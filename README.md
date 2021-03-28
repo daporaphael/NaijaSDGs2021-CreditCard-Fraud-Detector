@@ -1,4 +1,4 @@
-# NaijaSDGs2021-CreditCard-Fraud-Detector
+#        NaijaSDGs2021-CreditCard-Fraud-Detector
 *Welcome to my Repo. I built two apps for the ongoing Fintech competition, 
 both apps are scalable and useful in our financial institutions. The First 
 app is the Loan repayment Calculator app and the second app is an app that 
@@ -36,8 +36,11 @@ running..... will be displayed on the CMD *
 # (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web browser to locate the app
 #                    UNIQUE FEATURE OF THE LOAN REPAYMENT CALCULATOR APP
 (1)The app has inbuilt formular that calculate how the Borrower will repay the Lending institution for 1year,2 years or even over 50 years
+
 (2)The app formulates Loan schedule table # AUTOMATICALLY
+
 (3)The app has inbuilt graph for easy visualization
+
 #  The above stepup is for Windows PC,Stepup for androids ......loading
 
 
@@ -46,7 +49,7 @@ running..... will be displayed on the CMD *
 
 In the course of loan application, some criminals may want to commit fraud 
 with the use of their credit card. With my application, such fraud that 
-will be committed by such  criminals will be  prevented and detected. My application makes use of IBM Auto AI ( Automation and 
+will be committed by such  criminals will be  prevented and detected. My application makes use of  Auto AI ( Automation and 
 Artificial intelligence) to analyse any transactions by the loan applicant 
 through the dataset inherent in my  application and any fraud that'll will be commited  will be detected based on two important conditions. My Web app will 
 calculate two numeric values,which are 0 or 1 depending on whether there is a 
