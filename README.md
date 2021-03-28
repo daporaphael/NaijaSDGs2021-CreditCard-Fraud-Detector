@@ -10,22 +10,25 @@ period of time. In relation to a loan, amortization focuses on spreading
 out loan payments over time. When applied to an asset, amortization is 
 similar to depreciation.*
 *Steps to build the loan repayment calculator *
-#1 install git software for Windows *
+# (1 )Install git software for Windows *
 
-*(2)clone my Repo,using the command. git clone 
+# (2)Clone my Repo,using the command. git clone 
 https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector 
 
-*3 install the latest version of python. Check whether its truly installed 
+# (3) install the latest version of python. Check whether its truly installed 
 in your computer with the command python - - version*
-*(4)install the following dependencies using the computer CMD*
+
+# (4)install the following dependencies using the computer CMD*
 *(a) type pip install pandas*
 *(b) type pip install dash*
 *Ensure that you have a strong Internet connection when running the above 
 commands in CMD*
-*5 type cd Loan-repayment-Calculator-and-Fraud-Detector*
+
+# (5 )Type cd Loan-repayment-Calculator-and-Fraud-Detector*
 *Next is to type python app. py. Wait for the server to start. Dash is 
 running..... will be displayed on the CMD *
-*6 type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web 
+
+# (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web 
 browser to locate the app*
 
 *Credit card Detector *
