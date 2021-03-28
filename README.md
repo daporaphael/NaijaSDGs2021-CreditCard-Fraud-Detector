@@ -12,13 +12,14 @@ similar to depreciation.*
 *Steps to build the loan repayment calculator *
 # (1 )Install git software for Windows *
 
-# (2)Clone my Repo,using the command. git clone 
-https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector 
+# (2)Clone my Repo,by typing the command below in CMD terminal 
 
-# (3) install the latest version of python. Check whether its truly installed 
-in your computer with the command python - - version*
+  git clone https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector 
 
-# (4)install the following dependencies using the computer CMD*
+# (3) Install the latest version of python.
+Check whether its truly installed ,in your computer with the command python - - version*
+
+# (4)Install the following dependencies using the computer CMD*
 *(a) type pip install pandas*
 *(b) type pip install dash*
 *Ensure that you have a strong Internet connection when running the above 
