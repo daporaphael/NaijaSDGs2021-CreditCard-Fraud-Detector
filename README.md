@@ -23,7 +23,9 @@ similar to depreciation
 Check whether its truly installed ,in your computer with the command python - - version*
 
 # (4)Install the following dependencies using the computer CMD*
-*(a) type pip install pandas,(b) type pip install dash,ensure that you have a strong Internet connection when running the above 
+*(a) type pip install pandas
+(b) type pip install dash  
+ensure that you have a strong Internet connection when running the above 
 commands in CMD*
 
 # (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
