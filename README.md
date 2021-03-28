@@ -34,6 +34,10 @@ Dash is
 running..... will be displayed on the CMD *
 
 # (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web browser to locate the app
+#                    UNIQUE FEATURE OF THE LOAN REPAYMENT CALCULATOR APP
+(1)The app has inbuilt formular that calculate how the Borrower will repay the Lending institution for 1year,2 years or even over 50 years
+(2)The app formulates Loan schedule table # AUTOMATICALLY
+(3)The app has inbuilt graph for easy visualization
 #  The above stepup is for Windows PC,Stepup for androids ......loading
 
 
@@ -54,3 +58,4 @@ therefore be nipped in the bud and the loan application is not approved .
 #Condition 2:if the calculated value is 1,that means the loan applicant is not 
 criminally minded, and therefore the loan will be granted to the loan 
 applicant 
+deployemnt of the fraud detector app to android .......loading
