@@ -25,7 +25,7 @@ Check whether its truly installed ,in your computer with the command python - - 
 # (4)Install the following dependencies using the computer CMD*
 *(a) type pip install pandas
 (b) type pip install dash  
-ensure that you have a strong Internet connection when running the above 
+These two commands help to install pandas,and dash ,ensure that you have a strong Internet connection when running the above 
 commands in CMD*
 
 # (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
