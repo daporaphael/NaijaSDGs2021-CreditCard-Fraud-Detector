@@ -8,8 +8,11 @@ helps to detect Fraud committed by  loan applicants. *
 periodically lower the book value of a loan or intangible asset over a set 
 period of time. In relation to a loan, amortization focuses on spreading 
 out loan payments over time. When applied to an asset, amortization is 
-similar to depreciation.*
-*Steps to build the loan repayment calculator *
+similar to depreciation 
+
+
+#              STEPS TO BUILD THE LOAN CALCULATOR
+
 # (1 )Install git software for Windows *
 
 # (2)Clone my Repo,by typing the command below in CMD terminal 
@@ -20,9 +23,7 @@ similar to depreciation.*
 Check whether its truly installed ,in your computer with the command python - - version*
 
 # (4)Install the following dependencies using the computer CMD*
-*(a) type pip install pandas*
-*(b) type pip install dash*
-*Ensure that you have a strong Internet connection when running the above 
+*(a) type pip install pandas,(b) type pip install dash,ensure that you have a strong Internet connection when running the above 
 commands in CMD*
 
 # (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
@@ -32,8 +33,8 @@ Wait for the server to start.
 Dash is 
 running..... will be displayed on the CMD *
 
-# (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web 
-browser to locate the app*
+# (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> 
+in any Web browser to locate the app
 
 *Credit card Detector *
 *Fraud Prediction using Auto AI*
