@@ -33,8 +33,7 @@ Wait for the server to start.
 Dash is 
 running..... will be displayed on the CMD *
 
-# (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> 
-in any Web browser to locate the app
+# (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web browser to locate the app
 
 *Credit card Detector *
 *Fraud Prediction using Auto AI*
