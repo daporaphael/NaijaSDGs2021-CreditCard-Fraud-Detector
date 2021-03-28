@@ -35,7 +35,7 @@ running..... will be displayed on the CMD *
 
 # (6) Type localhost:8050 or 127.0.0.1:8050 <http://127.0.0.1:8050> in any Web browser to locate the app
 #                    UNIQUE FEATURE OF THE LOAN REPAYMENT CALCULATOR APP
-(1)The app has inbuilt formular that calculate how the Borrower will repay the Lending institution for 1year,2 years or even over 50 years
+(1)The app has inbuilt formular that calculate how the Borrower will repay the Lending institution in installments, weekly or forthnightly or monthly for 1year,2 years or even over 50 years
 
 (2)The app formulates Loan schedule table # AUTOMATICALLY
 
