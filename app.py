@@ -41,7 +41,7 @@ app.layout = html.Div(
 						html.Div(
 							[
 								html.H3(
-									'LOAN REPAYMENT CALCULATOR BY DAPO O.'
+									'NaijaSDGs2021-CreditCard-Fraud-Detector'
 								)
 							]
 						)
