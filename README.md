@@ -31,6 +31,8 @@ commands in CMD*
  (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
 
 *Next is to type python app.py
+
+
 Wait for the server to start.
 Dash is 
 running..... will be displayed on the CMD *
