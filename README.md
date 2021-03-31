@@ -1,4 +1,5 @@
 #        NaijaSDGs2021-CreditCard-Fraud-Detector
+#       Pls watch my video at https://youtu.be/N72aZd0WkTg
 *Welcome to my Repo. I built two apps for the ongoing Fintech competition, 
 both apps are scalable and useful in our financial institutions. The First 
 app is the Loan repayment Calculator app and the second app is an app that 
