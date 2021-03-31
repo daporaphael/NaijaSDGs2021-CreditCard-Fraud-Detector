@@ -28,7 +28,7 @@ Check whether its truly installed ,in your computer with the command python --ve
 These two commands help to install pandas,and dash ,ensure that you have a strong Internet connection when running the above 
 commands in CMD*
 
-# (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
+ (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
 
 *Next is to type python app.py
 Wait for the server to start.
