@@ -20,7 +20,7 @@ similar to depreciation
   git clone https://github.com/daporaphael/NaijaSDGs2021-CreditCard-Fraud-Detector 
 
 # (3) Install the latest version of python.
-Check whether its truly installed ,in your computer with the command python - - version*
+Check whether its truly installed ,in your computer with the command python --version
 
 # (4)Install the following dependencies using the computer CMD*
 *(a) type pip install pandas
@@ -30,7 +30,7 @@ commands in CMD*
 
 # (5 )Type cd NaijaSDGs2021-CreditCard-Fraud-Detector
 
-*Next is to type python app. py. 
+*Next is to type python app.py
 Wait for the server to start.
 Dash is 
 running..... will be displayed on the CMD *
